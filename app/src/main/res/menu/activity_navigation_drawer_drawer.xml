@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_photo_library_black_24dp"
+            android:title="Gallery" />
+        <item
+            android:id="@+id/nav_event"
+            android:icon="@drawable/ic_event_note_black_24dp"
+            android:title="Event" />
+        <item
+            android:id="@+id/nav_panier"
+            android:icon="@drawable/ic_local_grocery_store_black_24dp"
+            android:title="Panier" />
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_person_black_24dp"
+                android:title="Compte" />
+            <item
+                android:id="@+id/nav_person_logout"
+                android:icon="@drawable/ic_person_black_24dp"
+                android:title="Log out" />
+        </menu>
+    </item>
+
+</menu>

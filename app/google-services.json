@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "780281487478",
+    "firebase_url": "https://showart-2e064.firebaseio.com",
+    "project_id": "showart-2e064",
+    "storage_bucket": "showart-2e064.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780281487478:android:7cad427c26c67b33",
+        "android_client_info": {
+          "package_name": "triki.showart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780281487478-792dit76cemlpl84qc91qnm3fhpmf4i5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "triki.showart",
+            "certificate_hash": "6FE4B6268E77353802EDCCCDB133D54903199111"
+          }
+        },
+        {
+          "client_id": "780281487478-30ts0j6on59gqujifb03390d2ujaeuuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2Ebl1XiaPPgY-KTl_6dXCPqC-OIOzUKg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780281487478-30ts0j6on59gqujifb03390d2ujaeuuo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
